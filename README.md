@@ -1,4 +1,6 @@
 s is a group project 
-##Contributors include
-Olabowale olorunfemi ogunbanwo.
-Ajiboye Daniel Olanrewaju
+
+**Contributors include**
+
+>_Olabowale olorunfemi ogunbanwo._
+>_Ajiboye Daniel Olanrewaju_
